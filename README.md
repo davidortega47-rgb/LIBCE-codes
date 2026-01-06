@@ -96,3 +96,6 @@ pip install -r Requirements.txt
 The iedb_runner.py script relies on the IEDB MHC-II binding prediction tool.
 
 Ensure you have the standalone IEDB tools installed locally.
+
+## Zenodo reporitory
+These data are also available via the following DOI https://doi.org/10.5281/zenodo.18166880
